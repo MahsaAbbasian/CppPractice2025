@@ -1,10 +1,9 @@
-# Chapter 1 – Basics
+# CppPractice2025  
+A structured C++ practice project following LearnCpp.com — every chapter documented, every exercise runnable.
 
-## Exercise 01 – Add and Subtract
-Practices:
-- Input using std::cin
-- Output using std::cout
-- Basic arithmetic operators
-- Variables and initialization
+## 📚 Chapters
+- **Chapter 01 — Basics**
+- **Chapter 02 — Functions**
+- More coming as I progress...
 
 
